@@ -1,0 +1,19 @@
+body{
+    background: #ccc;
+}
+
+#title, .subtitle, .pos_title {
+    color: rgb(121, 8, 96);
+}
+
+.pos_title{
+    font-size: 16px;
+    font-style: italic;
+}
+
+.post{
+    background: white;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
+}
