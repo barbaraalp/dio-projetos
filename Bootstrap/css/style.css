@@ -1,0 +1,33 @@
+
+body{
+    font: 20px Arial, sans-serif;
+}
+.navbar {
+    background-color: #d0dbe7;
+}
+
+
+.criacao {
+    background-color: #38405F;
+    color: #d0dbe7;
+}
+
+.margin {
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.paraqueserve{
+    background-color: #59546C;
+    color: #d0dbe7;
+}
+
+.exemplossite{
+    background-color: #38405F;
+    color: #d0dbe7;
+}
+
+.bg-footer{
+    background-color: black;
+    color: #d0dbe7;
+}
